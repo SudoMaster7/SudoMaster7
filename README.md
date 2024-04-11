@@ -19,3 +19,5 @@
 <div style="display: inline_block">
   
   <h3 align="left">Habilidades principais:</h3>
+  
+  <h3 align="left">Ferramentas:</h3>
