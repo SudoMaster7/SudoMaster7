@@ -6,7 +6,6 @@
 - 🔭 Trabalhando em: 
 - 🌱 Estudando: 
 - 📫 Entre em contato: https://t.me/Sudomasther
-- 😄 Pronouns: ele/dele
 
 
 **<h2 align="left">Estatísticas do Github::</h2>
