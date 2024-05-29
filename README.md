@@ -24,9 +24,6 @@
   </picture>
 </div>
 <br>
-
-![snake gif](https://github.com/SudoMaster7/SudoMaster7/blob/output/github-contribution-grid-snake.gif)
-
 <div style="display: inline_block">
   
   <h3 align="left">Habilidades principais:</h3>
