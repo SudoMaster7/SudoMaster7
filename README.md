@@ -9,11 +9,21 @@
 
 
 <h2 align="left">Estatísticas do Github::</h2>
+<br>
 <div align="center">
-  <a href="https://github.com/SudoMaster7"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=SudoMaster7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
- <a href="https://github.com/SudoMaster7"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoMaster7&layout=compact&langs_count=7&theme=dracula&hide_border=true"></a>&nbsp;
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SudoMaster7&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SudoMaster7&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudoMaster7&show_icons=true" />
+  </picture>
 </div>
-
+<br>
 
 <div style="display: inline_block">
   
