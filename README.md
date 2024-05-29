@@ -1,4 +1,4 @@
-<h1 align="Left">Sobre Mim: </h1>
+<h1 align="center">Sobre Mim: </h1>
 
 <img>
 
@@ -8,7 +8,7 @@
 - 📫 Entre em contato: https://t.me/Sudomasther
 
 
-<h2 align="left">Estatísticas do Github::</h2>
+<h2 align="center">Estatísticas do Github::</h2>
 <br>
 <div align="center">
   <picture>
@@ -26,6 +26,6 @@
 <br>
 <div style="display: inline_block">
   
-  <h3 align="left">Habilidades principais:</h3>
+  <h3 align="center">Habilidades principais:</h3>
   
-  <h3 align="left">Ferramentas:</h3>
+  <h3 align="center">Ferramentas:</h3>
