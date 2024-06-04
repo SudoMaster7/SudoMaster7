@@ -13,7 +13,7 @@ Sou um estudante de ciência da computação, curiosidade é o que me move!
 
 <h2 align="center"> Skills </h2>
 
-<p align="center">![Sudo Github status](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoMaster7&layout=compact)</p>
+![Sudo Github status](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoMaster7&layout=compact)
 
 <h2 align="center">Estatísticas do Github</h2>
 <br>
