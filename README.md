@@ -11,24 +11,9 @@ Sou um estudante de ciência da computação, curiosidade é o que me move!
 
 ---
 
-<h2 align="center"> Minhas Skills </h2>
-
-<h3>Aplicações e dados</h3>
+<h2 align="center"> Skills </h2>
 
 ![Sudo Github status](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoMaster7&layout=compact)
-
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-
-<h3>Ferramentas de desenvolvimento</h3>
-
-![VSCode](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
-![PyCharm](https://img.icons8.com/?size=100&id=117121&format=png&color=000000)
-
-<h3>DevOps</h3>
-
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
 <h2 align="center">Estatísticas do Github</h2>
 <br>
