@@ -1,4 +1,4 @@
-<h1> 🌠 Olá, Me chamo Leonardo Brito! </h1>
+<h1> 🌠 Olá, Me chamo SUDO Brito! </h1>
 
 Sou um estudante de ciência da computação, curiosidade é o que me move!
 
