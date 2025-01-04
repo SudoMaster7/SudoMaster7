@@ -2,13 +2,6 @@
 
 <p> 
 
-<br>……( ‘_’)
-<br>…./”"”"”"”"”"”"\======░    000  0000  0
-<br>/”"”"”"”"”"”"”"”"”"”"”"”"”\\\
-<br>\_@_@_@_@_@_@_@_/ 
-</p>
-
-
 <h2 align="center">Sobre mim</h2> 
 
 - 🤔 Explorando o mundo da tecnologia e desenvolvimento de software para resolução de problemas.
