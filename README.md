@@ -1,16 +1,6 @@
-<h1> ⲑⲉⲟⲥ Olá, Me chamo SUDO Brito! </h1>
+<h1>Olá, Me chamo Leonardo Brito! </h1>
 
 <p> 
-
-<h2 align="center">Sobre mim</h2> 
-
-- 🤔 Explorando o mundo da tecnologia e desenvolvimento de software para resolução de problemas.
-- 🎓 Estudando Ciência da Computação na Universidade Veiga de Almeida (Bacharelado) & Ciência de Dados na Descomplica (Técnologo).
-- 💼 Trabalhando como Suporte Técnico ao cliente na Prefeitura de Duque de Caxias (PMDC).
-- 🌱 Aprendendo mais sobre Machine Learning, Análise de dados, Matemática aplicada e Big data
-- 🤯 CURIOSIDADE 🤯
-
----
 
 <h2 align="center"> Skills </h2>
 
