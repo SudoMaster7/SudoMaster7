@@ -1,0 +1,55 @@
+-------------------------------------------
+MANUAL INTEGRATION TEST PLAN (MVP)
+-------------------------------------------
+Objective: Test the core application flow from registration to game play and logout.
+
+Pre-requisites:
+1. Application (MVP build) installed on a device/emulator.
+2. Firebase project accessible and services (Auth, Firestore) enabled.
+
+Test Steps:
+1. Launch App.
+   - Expected: LoginScreen is displayed.
+2. Register New Parent Account:
+   - Tap 'Register New Account'.
+   - Enter a valid new email and a password (min 6 chars).
+   - Tap 'Register' (or equivalent submit button from LoginScreen's combined logic).
+   - Expected: Navigates to CreateProfileScreen. User created in Firebase Auth.
+3. Create Child Profile:
+   - Enter a child's name.
+   - Tap 'Save Profile & Start'.
+   - Expected: Navigates to LobbyScreen. Child profile data stored in Firestore.
+4. Verify LobbyScreen:
+   - Expected: Parent's email and child's name are displayed.
+   - Expected: Game cards for 'Escovando os Dentes', 'Conecte os Pontos', 'Respiração da Flor' are visible.
+   - Expected: 'Ver Progresso (Painel)' button is visible.
+5. Play 'Escovando os Dentes':
+   - Tap 'Escovando os Dentes' game card.
+   - Expected: Navigates to EscovandoOsDentesScreen.
+   - Follow on-screen prompts to complete the game.
+   - Expected: Game completes, 'Muito bem!' message shown.
+   - Tap 'Voltar ao Lobby'.
+   - Expected: Returns to LobbyScreen.
+6. Play 'Conecte os Pontos':
+   - Tap 'Conecte os Pontos' game card.
+   - Follow prompts to connect points.
+   - Expected: Game completes, 'Parabéns!' message shown.
+   - Tap 'Voltar ao Lobby'.
+7. Play 'Respiração da Flor':
+   - Tap 'Respiração da Flor' game card.
+   - Tap 'Iniciar'. Observe animation and text cues.
+   - Expected: Animation runs for set cycles, 'Sessão completa' message shown.
+   - Tap 'Voltar ao Lobby'.
+8. View Parent Dashboard:
+   - Tap 'Ver Progresso (Painel)' button on LobbyScreen.
+   - Expected: Navigates to ParentDashboardScreen.
+   - Expected: Placeholder data is displayed.
+   - Tap 'Voltar ao Lobby'.
+9. Logout:
+   - Tap logout icon on LobbyScreen.
+   - Expected: Navigates back to LoginScreen. User is signed out.
+10. Login with Existing Account:
+    - On LoginScreen, enter credentials of the account created in step 2.
+    - Tap 'Login'.
+    - Expected: Navigates to LobbyScreen. Correct user data displayed.
+-------------------------------------------
