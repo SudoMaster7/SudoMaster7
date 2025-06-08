@@ -1,0 +1,43 @@
+SIMULATING BUILD AND DISTRIBUTION FOR MVP
+=========================================
+
+This file describes how an APK (Android) or TestFlight build (iOS) would typically be created and distributed for this MVP.
+
+Android APK (MVP)
+-----------------
+1. Build Command (simulated):
+   flutter build apk --debug  (for testing)
+   flutter build apk --release (for production/broader testing)
+
+2. Output Location (typical):
+   The APK file would be found in: sudo_aprender_brincar/build/app/outputs/flutter-apk/app-debug.apk (or app-release.apk)
+
+3. Distribution (typical methods for MVP):
+   - Direct Sharing: The .apk file can be shared directly with testers for manual installation (requires enabling 'Install from unknown sources' on Android).
+   - Firebase App Distribution: Upload the APK to Firebase console, then distribute to tester email groups. Testers get an email with download instructions.
+   - Google Play Console (Internal Testing Track): Upload APK to Play Console, manage testers, and distribute via Play Store infrastructure.
+
+iOS TestFlight (MVP)
+--------------------
+1. Build Command (simulated):
+   flutter build ios --debug  (for local device testing via Xcode)
+   flutter build ios --release (for TestFlight/App Store)
+
+2. Xcode Steps (after flutter build ios --release):
+   - Open 'sudo_aprender_brincar/ios/Runner.xcworkspace' in Xcode.
+   - Select a Generic iOS Device or connected device.
+   - Configure code signing (Apple Developer account required).
+   - Product > Archive.
+   - Once archived, click 'Distribute App' from the Organizer window.
+   - Choose 'App Store Connect' (for TestFlight).
+   - Follow prompts to upload to App Store Connect.
+
+3. Distribution via TestFlight:
+   - In App Store Connect (appstoreconnect.apple.com), navigate to your app.
+   - Go to the 'TestFlight' tab.
+   - Add builds for testing and assign them to internal testers (team members) or external tester groups (via email invitation).
+   - Testers will receive an email invitation with a link to install the app via the TestFlight app (available on the App Store).
+
+Summary for this Simulated Environment:
+Actual build artifacts (APK/IPA) are not generated here. This file serves as a guide to the standard procedures.
+If this were a CI/CD pipeline, these steps would be automated, and links to downloadable artifacts or TestFlight notifications would be provided.
