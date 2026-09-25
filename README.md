@@ -64,7 +64,6 @@ I founded **SUDO**, a digital solutions studio that helps small businesses autom
 | :--- | :--- | :--- |
 | [soumenteMVP](https://github.com/SudoMaster7/soumenteMVP) | Gamified personal growth mobile app | TypeScript · React Native |
 | [sistema-frota](https://github.com/SudoMaster7/sistema-frota) | Vehicle fleet control integrated with Google Sheets | Python · Flask |
-| [FinancasGranjear](https://github.com/SudoMaster7/FinancasGranjear) | Financial management system integrated with Google Sheets | JavaScript |
 | [OdontoCLI](https://github.com/SudoMaster7/OdontoCLI) | Dental clinic management system | TypeScript · React |
 | [SysSupport](https://github.com/SudoMaster7/SysSupport) | IT help desk ticket manager | Python |
 | [Compilador-Python](https://github.com/SudoMaster7/Compilador-Python) | Experimental Python compiler that suggests automatic error fixes | Python |
