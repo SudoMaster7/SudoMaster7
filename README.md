@@ -8,9 +8,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-brito-133645262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:moraesleonardobrito@gmail.com"><img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Quando os sites estiverem no ar, descomente:
-  <a href="https://usesudo.com.br"><img src="https://img.shields.io/badge/SUDO-0E0F12?style=for-the-badge&logoColor=C9A14A" alt="SUDO"/></a>
-  <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-16181D?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://portifolioleobrito.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0E0F12?style=for-the-badge&logo=vercel&logoColor=C9A14A" alt="Portfolio"/></a>
+  <!-- Quando o site da SUDO estiver no ar, descomente:
+  <a href="https://usesudo.com.br"><img src="https://img.shields.io/badge/SUDO-16181D?style=for-the-badge" alt="SUDO"/></a>
   -->
 </p>
 
@@ -48,6 +48,8 @@ I founded **SUDO**, a digital solutions studio that helps small businesses autom
 ---
 
 ## 🚀 Featured Work
+
+> Full case studies (challenge, architecture, results) at **[portifolioleobrito.vercel.app](https://portifolioleobrito.vercel.app/en)**
 
 ### Client projects (private repositories)
 
@@ -96,7 +98,7 @@ Venho da infraestrutura de TI (servidores Linux, pfSense, cabeamento estruturado
 
 Graduando em Ciência da Computação (UVA, previsão 2027) e em Gestão Comercial (UNIASSELVI).
 
-📧 moraesleonardobrito@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-brito-133645262/)
+📧 moraesleonardobrito@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-brito-133645262/) · 🌐 [Portfólio](https://portifolioleobrito.vercel.app)
 
 </details>
 
